@@ -40,7 +40,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "https://fashionliteracy.github.io/fashionliteracy" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-168076562-1"
 language: "en"
