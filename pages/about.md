@@ -5,13 +5,17 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This website is created with the vision of sharing knowledge in the field of
+Fashion. Our team helps students in learning about various entrance exams of
+institutes such as NIFT, NID etc.
+
+On this website, readers can find questions banks, topics for group discussions
+and about latest trends in Fashion Industry. Students can connect with each
+other to learn and make study groups to crack the entrance examinations of
+institutes for Fashion studies.
+
+<img src="https://res.cloudinary.com/jitendrasingh/image/upload/v1597822542/fashionliteracy/about_us_hq3qwr.png" alt="Fashion Literacy">
+
