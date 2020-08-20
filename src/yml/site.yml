@@ -1,14 +1,14 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: FashionLiteracy
+title: FashionLiteracy | A blog on Fashion Education
+description: FashionLiteracy is a community of aspirants and professional of Fashion Industry
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+email: info@fashionliteracy.com
+disqus_username: fashion-literacy
 show_hero: true
 menu:
   - title: Home
