@@ -16,7 +16,7 @@ paginate: true
 ---
 
 
-T-shirt printing i.e. garment printing is very different from fabric printing
+T-shirt printing or garment printing is very different from fabric printing
 or panel printing as a garment is three dimensional and care needs to be taken
 regarding the transfer of the color on the lower panel. The machinery involved
 in garment printing essentially includes a frame in which the garment is
