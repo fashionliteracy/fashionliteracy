@@ -15,16 +15,6 @@ optimized_image: https://res.cloudinary.com/jitendrasingh/image/upload/c_scale,h
 paginate: true
 ---
 
-Printing plays a crucial role in increasing the value of the garment and making
-it desirable for the consumers. The process of garment printing has evolved
-over time from the most basic technology of screen printing to the most
-advanced technology of digital printing. The quality and finish achieved varies
-in different technologies. In this article, the three different levels – basic,
-intermediate and advanced are discussed.
-
-
-## Introduction
-
 
 T-shirt printing i.e. garment printing is very different from fabric printing
 or panel printing as a garment is three dimensional and care needs to be taken
