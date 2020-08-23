@@ -9,7 +9,7 @@ tags:
  - Fashion
  - Khadi
 image: https://res.cloudinary.com/jitendrasingh/image/upload/v1597822541/fashionliteracy/khadi_fashion_homegrown.co.in_c8wxuw.png
-optimized_image: https://res.cloudinary.com/jitendrasingh/image/upload/c_scale,h_165,w_350/v1597822541/fashionliteracy/khadi_fashion_homegrown.co.in_c8wxuw.png
+# optimized_image: https://res.cloudinary.com/jitendrasingh/image/upload/c_scale,h_165,w_350/v1597822541/fashionliteracy/khadi_fashion_homegrown.co.in_c8wxuw.png
 ---
 
 ## Points in against of the topic

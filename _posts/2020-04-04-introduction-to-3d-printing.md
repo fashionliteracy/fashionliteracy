@@ -11,7 +11,7 @@ tags:
 
 # image: assets/img/3d_printed_collections.jpg
 image: https://res.cloudinary.com/jitendrasingh/image/upload/v1597822542/fashionliteracy/3d_printed_collections_vd2iad.jpg
-optimized_image: https://res.cloudinary.com/jitendrasingh/image/upload/c_scale,h_165,w_300/v1597822542/fashionliteracy/3d_printed_collections_vd2iad.jpg
+# optimized_image: https://res.cloudinary.com/jitendrasingh/image/upload/c_scale,h_165,w_300/v1597822542/fashionliteracy/3d_printed_collections_vd2iad.jpg
 description: 3D printing types and advantages in Fashion industry
 paginate: true
 ---

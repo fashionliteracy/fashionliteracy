@@ -11,7 +11,7 @@ tags:
  - Printing
  - T Shirts
 image: https://res.cloudinary.com/jitendrasingh/image/upload/v1597830523/fashionliteracy/tshirt_printing_ie6vp5.jpg
-optimized_image: https://res.cloudinary.com/jitendrasingh/image/upload/c_scale,h_165,w_350/v1597830523/fashionliteracy/tshirt_printing_ie6vp5.png 
+# optimized_image: https://res.cloudinary.com/jitendrasingh/image/upload/c_scale,h_165,w_350/v1597830523/fashionliteracy/tshirt_printing_ie6vp5.png 
 paginate: true
 ---
 

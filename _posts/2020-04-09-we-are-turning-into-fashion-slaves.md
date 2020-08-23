@@ -9,7 +9,7 @@ tags:
  - GD Topic
  - NIFT Entrance
 image: https://res.cloudinary.com/jitendrasingh/image/upload/v1597827470/fashionliteracy/fashion_slaves_mbxvfk.png
-optimized_image: https://res.cloudinary.com/jitendrasingh/image/upload/c_limit,h_165,w_300/v1597827470/fashionliteracy/fashion_slaves_mbxvfk.png
+# optimized_image: https://res.cloudinary.com/jitendrasingh/image/upload/c_limit,h_165,w_300/v1597827470/fashionliteracy/fashion_slaves_mbxvfk.png
 description: NIFT GD Topic with points in favour and in against of whether we are turning into fashion slaves
 ---
 
