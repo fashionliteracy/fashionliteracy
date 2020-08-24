@@ -1,7 +1,7 @@
 ---
 date: 2020-08-23 20:10:52
 layout: post
-title: "GD Topics for NIFT Entrance Exams"
+title: "GD Topics for NIFT Entrance Exams - Part 1"
 subtitle: Prepare well for your Group Discussion
 description: NIFT GD Topics examples
 image: https://res.cloudinary.com/jitendrasingh/image/upload/v1598213639/fashionliteracy/antenna-cw-cj_nFa14-unsplash_m73yiy.png
