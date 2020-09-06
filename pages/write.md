@@ -38,7 +38,7 @@ ideas too. Please submit your ideas using our Idea submission form below.
    have thousands of daily readers. All guest posts get immediate and
    excellent exposure.
 2. SEO Indexing - Our articles get indexed on web within few hours.
-3. Social Media Exposre - All articles by us are immediately distributed to all
+3. Social Media Exposure - All articles by us are immediately distributed to all
    social media channels and to our mailing lists. All authors get immediate
    exposure through these too.
 4. Payments - We also pay for your articles. All professional writers are
