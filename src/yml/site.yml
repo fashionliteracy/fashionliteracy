@@ -15,6 +15,12 @@ menu:
     url: /
   - title: Write For Us
     url: /write-for-us
+  - title: Technology
+    url: /category/technology
+  - title: GD Topics
+    url: /category/gdtopic
+  - title: Jobs
+    url: /category/jobs
   - title: About
     url: /about
   - title: Contact
