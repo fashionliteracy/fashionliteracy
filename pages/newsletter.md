@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FashionFlyer
-description: Some description.
+description: News on Fashion, education and technology.
 permalink: /newsletter/
 ---
 
