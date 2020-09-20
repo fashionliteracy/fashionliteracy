@@ -25,7 +25,6 @@ We encourage writers to write on the below mentioned categories : -
 > 2. Fashion Reviews
 > 3. Fashion Technology
 > 4. Fashion Current Events
-> 5. Fashion Jobs, virtual events, and webinars
 >
 
 The writers are not limited to the above categories and can submit their own
