@@ -30,7 +30,7 @@ chain.
 ## What is going on?!!
 
 Chaos, mayhem, disappointment in this daunting and scary
-situation is what is seen all around. 
+situation is what is seen all around. Let us discuss some of the effects of COVID on fashion supply chain.
 
 Apart from the loss of human lives, there
 is a loss of jobs, loss of businesses, and faith loss.  All the players are
@@ -169,6 +169,6 @@ For knowledge is limited, whereas imagination embraces the entire world,
 stimulating progress, giving birth to evolution."
 
 Innovation is the need of the hour. Businesses need to be creative, innovative
-and need to have an open mind for the advancements coming to keep themselves
-ahead in the race.
+and need to have an open mind for the advancements to keep themselves
+ahead in the race and to reduce the effects of COVID on fashion supply chain.
 
