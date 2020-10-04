@@ -24,10 +24,10 @@ Amid a world full of complex problems, one requires a systematic way to solve
 them. A problem that is recognized needs to be addressed and solved. 
 
 
-Many techniques can be used to solve the problem. Some examples of these
+Many techniques can be used to solve the problem. [Some examples of these
 techniques are Six thinking hats, Lightning Decision Jam, Problem Definition
-Process, The five whys, and many more. Read more on these techniques at
-https://www.sessionlab.com/blog/problem-solving-techniques/.
+Process, The five whys, and many more](
+https://www.sessionlab.com/blog/problem-solving-techniques/).
 
 
 This blog post explains a new problem-solving ideology and process that is
