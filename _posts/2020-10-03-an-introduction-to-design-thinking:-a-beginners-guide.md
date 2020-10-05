@@ -3,13 +3,12 @@ date: 2020-10-03 16:44:40
 layout: post
 title: "An Introduction to Design Thinking: A beginners guide"
 subtitle: Getting started with the design thinking process
-description: An introduction to Design Thinking process. A getting started guide to design thinking process for beginners. 
+description: An introduction to Design Thinking process. A beginners guide to design thinking process. A getting started guide to design thinking process for beginners. 
 image: https://res.cloudinary.com/jitendrasingh/image/upload/v1601745389/fashionliteracy/design_thinking_ozkgsc.webp
 category: blog
 tags:
  - Design Thinking
  - Design Thinking process
- - Design Thinking process in Fashion
  - Design Thinking in Fashion
 author: admin
 paginate: false
@@ -24,10 +23,10 @@ Amid a world full of complex problems, one requires a systematic way to solve
 them. A problem that is recognized needs to be addressed and solved. 
 
 
-Many techniques can be used to solve the problem. Some examples of these
+Many techniques can be used to solve the problem. [Some examples of these
 techniques are Six thinking hats, Lightning Decision Jam, Problem Definition
-Process, The five whys, and many more. Read more on these techniques at
-https://www.sessionlab.com/blog/problem-solving-techniques/.
+Process, The five whys, and many more](
+https://www.sessionlab.com/blog/problem-solving-techniques/.)
 
 
 This blog post explains a new problem-solving ideology and process that is
@@ -38,14 +37,15 @@ phases, and benefits of Design Thinking.
 
 ## What is Design Thinking?  
 
-An approach based on methods and processes in various
-fields such as architecture, engineering and business, that is used for
-practical and creative problem solving is called Design Thinking. 
+An approach based on methods and processes in various fields such as
+architecture, engineering and business, that is used for practical and creative
+problem solving is called Design Thinking. We discuss design thinking process
+and methods in the later part of this article.
 
 
 Design thinking is a solution-based approach to problem-solving, and it is
 quite different from the problem-based approach. Here are some of the points
-that will help in understanding the difference.
+that will help in understanding the difference. 
 
 
 ### Difference between Solution-based and Problem based Thinking
@@ -98,13 +98,14 @@ both and presents a sort of middle path to problem-solving.
 
 The edifice of the Design thinking process rests on four strong principles and
 five essential phases. These principles and phases are quite important and help
-in problem-solving quite effectively.
-
+in problem-solving quite effectively because design thinking is a process for
+creative problem solving.
 
 Design thinking is less of a process and more of an interactive approach to
 problem-solving which results in empathetic solutions focusing on the
 requirements and needs of the users facing the problem.
 
+Below are the 5 steps in design thinking process along with the 4 princinples.
 
 ### Four principles of Design Thinking 
 
@@ -144,14 +145,16 @@ Image Courtesy: Batterii blog
 http://blog.batterii.com/blog/five-steps-in-design-thinking-process
 -->
 
-
-The design thinking process consists of below mentioned five phases:-
+According to the given design thinking process diagram, the design thinking
+process consists of below mentioned five phases. In these
+design thinking process steps, designers empathise, define, ideate, prototype,
+and test the probable solutions to a user problem.
 
 
 #### 1. Empathize
 
-   The process of design thinking starts with Empathy. This is the
-   most critical phase of the design thinking process. 
+   The process of design thinking starts with Empathy. This phase is the core
+   of design thinking process. 
 
    In this phase, solution providers interact with the users of the product to
    understand their expectations, issues, problems, and pain points, etc. As
@@ -218,9 +221,12 @@ The design thinking process consists of below mentioned five phases:-
 ## Is Design Thinking a Linear Process?
 
 
-The design thinking process is not a linear process. It requires solution
-providers to keep iterating between phases with active feedback from users and
-stakeholders. The correct representation of the process would be similar to the
+As per the definition of design thinking process, the design thinking process is
+not a linear process. 
+
+It requires solution providers to keep iterating between
+phases with active feedback from users and stakeholders. The correct
+representation of the process would be similar to the
 one shown in the image below.
 
 
@@ -246,8 +252,8 @@ lead to improved problem definition and a new refined prototype.
 
 Due to the nonlinear, iterative, and flexible nature of the design thinking
 process, It is possible to integrate design thinking into existing processes in
-any business. Some of the obvious benefits of incorporating design thinking
-into a business are given below.
+any business. In a design led thinking process, businesses reap many benefits. 
+Some of those benefits are given below.
 
 
 **1. Reduced time to Market** - It is due to its emphasis on solution finding and
@@ -283,6 +289,10 @@ into a business are given below.
 The above points on benefits are multiplied in effect with Design thinking is
 used with other prevalent processes such as Agile and Lean. Read on to know
 more about it below.
+
+To learn more Download a [design thinking process book](https://www.goodreads.com/book/show/12469195-human-centered-design-toolkit)
+and take the road of non stop innovation in your company.
+
 
 
 ## Conclusion
