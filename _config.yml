@@ -1,33 +1,45 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: FashionLiteracy
+title: FashionLiteracy | A blog on Fashion Education
+description: FashionLiteracy is a community of aspirants and professional of Fashion Industry
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+email: info@fashionliteracy.com
+disqus_username: fashion-literacy
 show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Write For Us
+    url: /write-for-us
+  - title: Blog
+    url: /category/blog
+  - title: Technology
+    url: /category/technology
+  - title: GD Topics
+    url: /category/gdtopic
+  - title: Exams
+    url: /category/exams
   - title: About
     url: /about
   - title: Contact
     url: /contact
+  - title: Newsletter
+    url: /newsletter
   - title: Feed
     url: /feed.xml
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
+github_username: fashionliteracy
+facebook_username: fashionliteracy.education
+twitter_username: fashionliteracy
+instagram_username: fashion.literacy
 linkedin_username: linkedin_username
 medium_username: medium_username
 
@@ -42,7 +54,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-168076562-1"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
@@ -57,7 +69,7 @@ collections:
     output: true
 paginate_path: "/page/:num/"
 show_get_theme_btn: true
-use_logo: false
+use_logo: true
 
 # Content paginator
 paginate_content:
