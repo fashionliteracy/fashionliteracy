@@ -1,13 +1,21 @@
 # Site Settings
 name: FashionLiteracy
 title: FashionLiteracy | A blog on Fashion Education
-description: FashionLiteracy is a community of aspirants and professional of Fashion Industry
+description: FashionLiteracy is a community of aspirants, students, and professionals of Fashion Industry
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - Fashion
+  - Education
+  - Fashion Education
+  - Fashion Blog
+  - Fashion Technology
+  - Fashion Design
+  - Fashion Entrance Exams
+  - Fashion GD and PI
+  - GD Topics
+  - Design
+  - Technology
+  - Tutorials
+
 email: info@fashionliteracy.com
 disqus_username: fashion-literacy
 show_hero: true
