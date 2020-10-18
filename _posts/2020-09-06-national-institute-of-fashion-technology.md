@@ -75,7 +75,7 @@ NIFT has various courses in design:
 
 
 
-The entrance exam for design has two parts:
+[The entrance exam](/nift-application-form-2021) for design has two parts:
 
 The first exam has two sections- GAT and CAT GAT is common for both tech and
 design courses. CAT is creative Ability Test wherein the applicant is asked to
@@ -99,7 +99,7 @@ There are three PG Programmes.
 > 3. M.F.M. (Mater of Fashion Management)
 >
 
-
+Read on [NIFT Application Form 2021](/nift-application-form-2021) and apply for NIFT.
 
 The written exam pattern is similar to that of Bachelor programs. However M.F.M
 and M.F.Tech has additional round of [Group Discussion and Personal
