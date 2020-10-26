@@ -27,9 +27,6 @@ opportunity, freedom, and unstoppable expression.
 Instagram has given voice to lot of us and there can be no other better moment
 to take your first steps.
 
-![Instagram brands to watch for in
-2021](/assets/img/newsletter_26_oct_post1.jpg)
-
 
 Moveover, for many the presence of a social media platform such as instagram is the
 also the first step towards their digital transformation.
