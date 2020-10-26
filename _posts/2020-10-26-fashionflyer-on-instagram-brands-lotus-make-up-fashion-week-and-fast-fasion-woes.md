@@ -87,7 +87,7 @@ at this unforgettable event.
 Some of the eye catching collections were from designers such as Samanth
 Chauhan, Siddhartha Tytler, Tarun Tahulani, and Payal Jain.
 
-[Lotus Make-up India Fashion Week SS21](./assets/img/newsletter_26_oct_post2.jpg)
+![Lotus Make-up India Fashion Week SS21](/assets/img/newsletter_26_oct_post2.jpg)
 
 Check out some of the amazing collections as reported by [The Fashion
 Orientalist](https://www.thefashionorientalist.com/lotus-make-up-india-fashion-week/lotus-make-up-india-fashion-week-ss21/)
