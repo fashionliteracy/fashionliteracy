@@ -4,7 +4,7 @@ layout: post
 title: "Fashionflyer On Instagram Brands, Lotus Make-up Fashion Week, and Fast-Fasion Woes"
 subtitle: Fashionflyer on 26th October 2020.
 description: Fashionflyer edition of 26th October 2020.
-image: /assets/img/newsletter_26_oct_post2.jpg
+image: /assets/img/newsletter_26_oct_post1.jpg
 optimized_image:
 category: newsletter
 tags:
