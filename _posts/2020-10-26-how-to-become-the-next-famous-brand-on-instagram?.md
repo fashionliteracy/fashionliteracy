@@ -1,7 +1,7 @@
 ---
 date: 2020-10-26 03:06:06
 layout: post
-title: "How to become the next famous brand on instagram?"
+title: "Fashionflyer On Instagram Brands, Lotus Make-up Fashion Week, and Fast-Fasion Woes"
 subtitle: Fashionflyer on 26th October 2020.
 description: Fashionflyer edition of 26th October 2020.
 image: https://mcusercontent.com/dfa68fa24b4bdaf29b3e416e9/images/0979e030-25e6-4f20-80fd-c1efa8ec13f9.png
@@ -13,6 +13,11 @@ tags:
 author: admin
 paginate: false
 ---
+
+We bring latest news and events for aspirants, students, and professionals of Fashion industry.
+
+
+### Top Instagram brands to follow in 2021
 
 Have you ever wanted to setup your business through instagram? These days most
 of celebrities are quite active on the platform, which is an apostle of
