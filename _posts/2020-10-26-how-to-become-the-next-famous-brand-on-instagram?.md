@@ -33,24 +33,27 @@ Some of the famous fashion brands that have already gained popularity recently,
 and are the ones to look for in year 2021 are:
 
 
-1. House of CB - It was started by Conna Walker. House of CB is famous for the
+1. [House of CB](https://www.instagram.com/houseofcb/) - It was started by Conna Walker. House of CB is famous for the
    structured look of their piecces. Their [Ellery
    Dress](https://www.houseofcb.com/ellery-white-linen-puff-sleeve-midi-sundress.html)
    is my personal favorite.
-2. Rat & Boa - This brand is famous for their glamourous and edgy style. Look
+
+2. [Rat & Boa](https://www.instagram.com/ratandboa/) - This brand is famous for their glamourous and edgy style. Look
    their bold prints and eclectic style in [The Athena
    Dress](https://us.ratandboa.com/products/athena) It was  founded by
    Valentina Muntoni and Stephanie Cara Bennet.
-3. Verge Girl - They emanate sense of freedom, confidence, and wish of living
+
+3. [Verge Girl](https://www.instagram.com/vergegirl/) - They emanate sense of freedom, confidence, and wish of living
    by their own rules. Verge Girls founders Daniella and Natalia Dionyssiou
    express their feelings through [The full hearts mini
-   dress](https://www.vergegirl.com/collections/dresses/products/ml10296#page1-undefined_.
+   dress](https://www.vergegirl.com/collections/dresses/products/ml10296#page1-undefined)
 
-4. Mura Boutique - You will find happiness, positivity, and natural beauty in
+4. [Mura Boutique](https://www.instagram.com/mura_boutique/) - You will find happiness, positivity, and natural beauty in
    this brand founded by Asako Nakamura. Have a look at their [Sharona
    Dress](https://www.muraboutique.com.au/collections/dress/products/cm0667b01-white?variant=32136082718822)
    to get the glimpse of easy style.
-5. Peppermayo - Nowhere lesser than others is [The lavender days crop top and
+
+5. [Peppermayo](https://www.instagram.com/peppermayo/) - Nowhere lesser than others is [The lavender days crop top and
    skirt ](https://www.peppermayo.com/ta3071-lilac) from Peppermayo. You may as
    well sense their ability to bring a cool-girl to life.
 
